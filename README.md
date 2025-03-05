@@ -1,2 +1,2 @@
 # delta-fullstack
-this is demo for git Github class 
+this is demo for git Github class .
